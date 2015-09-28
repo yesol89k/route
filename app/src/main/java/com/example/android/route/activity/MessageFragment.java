@@ -25,6 +25,7 @@ public class MessageFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_message, container, false);
+        View test;
 
 
         // Inflate the layout for this fragment
